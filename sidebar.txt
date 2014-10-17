@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[muj:home|Door43 (muj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-muj|d43-muj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-muj/archive/master.zip|d43-muj.zip]]
+
+**Recent Changes**
+{{changes>ns = muj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/muj|Ethnologue data]]
+
